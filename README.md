@@ -1,10 +1,3 @@
 # Kisan_Bucket-ecommerce
 This is ecommerce site project build on platform React and Springboot
-
-![Screenshot]([screenshot.png](https://github.com/PareshSapkale9/Kisan_Bucket-ecommerce/blob/main/Product%20Images/home.png?raw=true))
-
-https://github.com/PareshSapkale9/Kisan_Bucket-ecommerce/blob/main/Product%20Images/home.png?raw=true
-![home] (home.png)
-
-![myimage-alt-tag]([url-to-image](https://github.com/PareshSapkale9/Kisan_Bucket-ecommerce/blob/main/Product%20Images/home.png?raw=true
-))
+![home](https://user-images.githubusercontent.com/101621564/193438246-16601431-a909-4e4d-a78f-b07f9b37633f.png)
